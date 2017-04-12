@@ -10,7 +10,7 @@ def main():
     mode = 'decrypt'
 
     if mode == 'encrypt':
-        message = ' wata rana in Allah yayadda zanyi kudi'
+        message = 'i just want to be greate '
         pubKeyFilename = 'Incf_pubkey.txt'
         print('Encrypting and writing to %s...' % (filename))
         encryptedText = encryptAndWriteToFile(filename, pubKeyFilename, message)

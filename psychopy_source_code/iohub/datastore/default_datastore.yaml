@@ -1,6 +1,0 @@
-data_store:
-    enable: True
-    filename: events
-    storage_type: pytables
-    multiple_experiments: False
-    flush_interval: 32
