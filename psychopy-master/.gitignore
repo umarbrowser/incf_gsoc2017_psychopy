@@ -1,0 +1,97 @@
+#########################################
+# Editor temporary/working/backup files #
+.#*
+[#]*#
+*~
+*$
+*.bak
+*.kdev4
+.project
+.pydevproject
+/.ropeproject/config.py
+/.ropeproject/history
+/.ropeproject/objectdb
+/.spyderproject
+/.spyproject
+/.vscode
+
+# Compiled source #
+###################
+*.a
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.py[ocd]
+*.so
+
+# Python files #
+################
+*__pycache__*
+# setup.py working directory
+build
+_build
+# sphinx build directory
+doc/_build
+# setup.py dist directory
+dist
+# Egg metadata
+*.egg-info
+# tox testing tool
+.tox
+
+# OS generated files #
+######################
+.directory
+.gdb_history
+.DS_Store
+ehthumbs.db
+Icon?
+*.orig
+old
+Thumbs.db
+nonSVN
+.hg*
+*.log
+
+# Things specific to this project #
+###################################
+PsyScope*
+psychopy1
+
+psychopy/demos/coder/misc/frame*
+psychopy/demos/*.psydat
+#psychopy/demos/*/*/*.csv
+psychopy/*/*/*/data/*.xlsx
+psychopy/*/*/*/data/*.psydat
+psychopy/demos/*/*/*.pickle
+psychopy/demos/*/*/*.psydat
+psychopy/demos/*/*/html
+
+psychopy/tests/*Out.*
+psychopy/tests/data/*_local.png
+psychopy/tests/*htmlcov*
+
+docs/source/changelog.rst
+
+/iohub_docs/*.bat
+/iohub_docs/*.txt
+
+sitePrefs.cfg
+appData.cfg
+
+*lastrun.py
+*.iohpid
+*.paths
+*.EDF
+*.mp4
+*.hdf5
+*.7z
+
+# Documentation generated files #
+#################################
+.coverage
+.idea
+builddocs.sh
+nonSphinx

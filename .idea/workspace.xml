@@ -1,884 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d893a886-7032-4a35-9729-8f39e0d62cd6" name="Default" comment="added the text gui file">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/.gitmodules" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/.mailmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/.svnauthors" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/.travis_coveragerc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/CHANGELOG.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/LICENSES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/DejaVuSerif.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/color128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/color16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/color32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/color32a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/compile128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/compile16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/compile32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filenew128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filenew16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filenew32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/fileopen128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/fileopen16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/fileopen32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filesave128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filesave16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filesave32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filesaveas128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filesaveas16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/filesaveas32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/monitors128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/monitors16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/monitors32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/preferences128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/preferences16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/preferences32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/psychopy.desktop" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/psychopy.icns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/psychopy.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/psychopy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/psychopy.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/psychopySplash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/redo128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/redo16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/redo32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/run128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/run16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/run32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/settingsExp128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/settingsExp16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/settingsExp32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/stop128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/stop16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/stop32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/tips.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/tips_ja_JP.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/undo128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/undo16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/Resources/undo32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/_psychopyApp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/builder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/_base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/aperture/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/aperture/aperture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/base.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/base128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/cedrusBox/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/cedrusBox/cedrusBox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/code/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/code/code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/dots/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/dots/dots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/dots/dots.xcf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/edit_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/envelopegrating/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/envelopegrating/envgrating.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/eyetracker/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/eyetracker/eyetracker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/grating/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/grating/grating.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/image/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/image/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/image/image128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/ioLabs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/ioLabs/ioLabs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/keyboard.xcf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/keyboard/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/keyboard/keyboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/microphone/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/microphone/microphone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/mouse/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/mouse/mouse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/movie/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/movie/movie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/movie/movie128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/parallelOut/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/parallelOut/parallelOut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/patch/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/patch/patch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/polygon/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/polygon/polygon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/ratingScale/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/ratingScale/ratingscale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/settings/JS_htmlHeader.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/settings/JS_infoPHP.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/settings/JS_setupExp.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/settings/JS_winInit.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/settings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/sound/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/sound/sound.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/sound/sound128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/static/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/static/static.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/text/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/text/text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/text/text128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/components/unknown/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/dialogs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/dialogs/dlgsCode.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/dialogs/dlgsConditions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/experiment.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/experiment.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/flow.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/localizedStrings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/builder/validators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/coder/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/coder/coder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/coder/introspect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/coder/psychoParser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/connections.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/dialogs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/ipythonShell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/ar_EG/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/cs_CZ/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/da_DK/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/de_DE/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/el_GR/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/en_NZ/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/en_US/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/es_ES/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/fi_FI/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/fr_FR/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/he_IL/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/hi_IN/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/hu_HU/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/it_IT/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/ja_JP/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/ko_KR/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/ms_MY/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/nl_NL/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/nn_NO/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/pl_PL/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/pt_PT/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/ro_RO/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/ru_RU/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/sv_SE/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/tr_TR/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/zh_CN/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/locale/zh_TW/LC_MESSAGE/messages.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/localization/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/localization/mappings.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/localization/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/preferencesDlg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/projects.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/psychopyApp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/stdOutRich.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/app/viewer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/clock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/colors.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/compatibility.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/http/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/http/_up_no_save.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/http/benchmark_report.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/http/htaccess.sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/http/send.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/http/up.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/http/virt.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/lazy_import.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/mseq.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/mseqSearch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/parallel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/psi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/quest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/contrib/tesselate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/core.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/event.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/gamma.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/gui/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/gui/qtgui.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/gui/wxgui.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/bbtk/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/cedrus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/crs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/crs/bits.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/crs/colorcal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/crs/optical.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/crs/shaders.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/egi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/emulator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/forp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/iolab.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/joystick/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/labjacks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/minolta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/pr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/hardware/serialdevice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/info.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/client/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/client/keyboard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/default_datastore.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/examples/condition_ip.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/examples/event_ip.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/examples/interest_areas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/examples/reformat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/examples/runtime_script/conditions.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/examples/runtime_script/iohub_demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/interestarea.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/pandas/interestperiod.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/datastore/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/default_config.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/default_analoginput.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/LabJackPython.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/Modbus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/skymote.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/u12.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/u3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/u6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python26/pylabjack/ue9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/LabJackPython.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/Modbus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/skymote.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/u12.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/u3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/u6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/labjack/win32/python27/pylabjack/ue9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/mc/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/mc/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/mc/default_analoginput.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/daq/hw/mc/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/default_device.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/deviceConfigValidation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/display/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/display/default_display.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/display/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/display/unit_conversions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eventfilters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/experiment/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/experiment/default_experiment.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/experiment/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/checkConsistancy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/default_eyetracker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/eye_events.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/filters/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/filters/parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/gazepoint/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/gazepoint/gp3/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/gazepoint/gp3/default_eyetracker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/gazepoint/gp3/eyetracker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/gazepoint/gp3/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/eyegaze/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/eyegaze/calibrate_lc.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/eyegaze/default_eyetracker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/eyegaze/eyetracker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/eyegaze/pEyeGaze.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/eyegaze/pegTest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/lc_technologies/eyegaze/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/smi/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/smi/iviewx/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/smi/iviewx/default_eyetracker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/smi/iviewx/eyetracker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/smi/iviewx/pyViewX.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/smi/iviewx/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/default_eyetracker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/eyeLinkCoreGraphicsIOHubPsychopy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/eyetracker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/win32/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/win32/python26/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/sr_research/eyelink/win32/python27/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/theeyetribe/TODO.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/theeyetribe/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/theeyetribe/default_eyetracker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/theeyetribe/eyetracker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/theeyetribe/pyTribe.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/theeyetribe/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/tobii/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/tobii/default_eyetracker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/tobii/eyetracker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/tobii/eyex_classes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/tobii/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/tobii/tobiiCalibrationGraphics.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/hw/tobii/tobiiclasses.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/eyetracker/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/keyboard/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/keyboard/darwin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/keyboard/darwinkey.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/keyboard/default_keyboard.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/keyboard/linux2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/keyboard/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/keyboard/win32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mcu/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mcu/iosync/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mcu/iosync/default_mcu.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mcu/iosync/pysync.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mcu/iosync/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mcu/iosync/t3_sketch/ioSync/ioSync.ino" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mouse/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mouse/darwin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mouse/default_mouse.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mouse/linux2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mouse/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/mouse/win32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/network/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/network/default_eventpublisher.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/network/default_remoteeventsubscriber.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/network/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/pyXHook.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/serial/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/serial/default_pstbox.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/serial/default_serial.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/serial/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/serial/supported_config_settings_pstbox.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/touch/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/touch/hw/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/touch/hw/elo/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/touch/hw/elo/default_touch.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/touch/hw/elo/elo_serial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/touch/hw/elo/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/xinput/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/xinput/default_gamepad.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/xinput/supported_config_settings.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/xinput/xinput.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/xinput/xinput_h.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/devices/xlib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/launchHubProcess.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/net.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/ordereddict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/ordereddict_LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/dialogs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/exception_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/fix_encoding.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/images.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/targetpositionsequence.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/variableProvider.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/visualUtil.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/iohub/util/visualangle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/locale_setup.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/logging.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/microphone.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/misc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/monitors/MonitorCenter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/monitors/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/monitors/calibData.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/monitors/calibTools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/monitors/getLumSeries.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/monitors/psychopy-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/monitors/psychopy.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/parallel/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/parallel/_dlportio.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/parallel/_inpout32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/parallel/_linux.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/platform_specific/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/platform_specific/darwin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/platform_specific/linux.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/platform_specific/posix.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/platform_specific/win32.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/preferences/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/preferences/generateHints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/preferences/generateSpec.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/preferences/hints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/preferences/preferences.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/pylintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/sound/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/sound/_base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/sound/backend_pygame.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/sound/backend_pyo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/sound/backend_pysound.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/sound/backend_sounddevice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/Electronic_Chime-KevanGC-495939803.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture2_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture2_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture2_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture2_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture2_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture2_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/aperture2_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/beatandrcos_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/blend_add_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/bufferimg_gabor_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrFullRandom.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrFullRandom.tsv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrFullRandomTH2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrFullRandomTH2_local.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrMultiKeyExpWide.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrMultiKeyTrials.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrMultiKeyTrials.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrRandom.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrRandom.tsv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrRandomTH2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrRandomTH2_local.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/corrXlsx.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/dots_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/elarray1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/envelopeandrcos_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/filltext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/futureParams.psyexp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/gabor2_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ghost_stroop.psyexp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ghost_trialTypes.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/green_48000.flac.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale2_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscaleLowContr_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/greyscale_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/imageAndGauss_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/movFrame1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/multiKeypressExperiment.psydat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/multiKeypressTrialhandler.psydat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/multiStairConds.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/newstyle.psydat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyImage_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/numpyLowContr_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/oldstyle.psydat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/oldstyle_stair.psydat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/ratingscale1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/red_16000.flac.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/right_to_left_unidcode.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/sample.meshwarp.data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/shape2_2_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/simpleimage1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/testLoopsBlocks.psyexp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/testimage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/testwedges.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/text2_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/trialTypes.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/trialTypes.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge1_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_cm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_deg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_degFlat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_degFlatPos.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_height.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_norm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_normAddBlend.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_normNoShade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_pix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/wedge2_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-1,-1_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-1,-1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-1,1_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-1,1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-2,-2_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-2,-2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-2,2_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale-2,2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale1,-1_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale1,-1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale1,1_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale1,1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale2,-2_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale2,-2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale2,2_pos-0.4,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori0_scale2,2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale-1,-1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale-1,1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale-2,-2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale-2,2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale1,-1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale1,1_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale2,-2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/data/winScalePos_ori45_scale2,2_pos0,0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/run.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/runPytest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_Installation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_all_stimuli.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_contains_overlaps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_custommouse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_framepacking.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_gamma.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_projections.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_projections_interactive.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_ratingScale.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_textbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_all_visual/test_winScalePos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/conftest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/test_Wizard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/test_builder/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/test_builder/componsTemplate.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/test_builder/genComponsTemplate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/test_builder/known_py_diffs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/test_builder/test_Experiment.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_app/test_builder/test_components.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_compatibility/test_compatibility.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/dataPrev.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/test_ExperimentHandler.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/test_StairHandlers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/test_TrialHandler.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/test_TrialHandler2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/test_TrialHandlerExt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/test_Xlsx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_data/test_fitFunctions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_events/test_keyboard_events.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_gui/test_DlgFromDictQt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_gui/test_DlgFromDictWx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_hardware/test_CRS_BitsSharp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_hardware/test_CRS_bitsShaders.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_hardware/test_PR655.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_hardware/test_emulator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_hardware/test_ports.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_iohub/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_iohub/test_computer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_iohub/test_event_get_and_clear.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_iohub/test_keyboard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_iohub/test_launch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_iohub/testutil.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/memory_usage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_ColorConv.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_GammaFun.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_core.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_event.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_info.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_locale.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_microphone.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_misc/test_web.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_psychojs/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_psychojs/test_compile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_sound/test_hamming.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_sound/test_sound_pygame.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_sound/test_sound_pyo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_sound/test_sound_sounddevice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_tools/test_filetools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/test_tools/test_versionchooser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/todo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tests/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/arraytools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/attributetools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/colorspacetools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/coordinatetools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/fileerrortools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/filetools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/imagetools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/monitorunittools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/plottools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/typetools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/unittools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/versionchooser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/tools/wizard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/aperture.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/basevisual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/bufferimage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/circle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/custommouse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/dot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/elementarray.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/gamma.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/globalVars.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/grating.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/image.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/line.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/movie.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/movie2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/movie3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/patch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/pointer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/polygon.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/radial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/ratingscale.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/rect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/secondorder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/shaders.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/shape.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/simpleimage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/text.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/TODO.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/fontmanager.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_encodings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_face_flags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_fstypes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_glyph_bbox_modes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_glyph_formats.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_kerning_modes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_lcd_filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_load_flags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_load_targets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_open_modes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_outline_flags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_pixel_modes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_render_modes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_stroker_borders.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_stroker_linecaps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_stroker_linejoins.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/ft_style_flags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_adobe_ids.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_apple_ids.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_mac_ids.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_mac_langids.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_ms_ids.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_ms_langids.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_name_ids.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_enums/tt_platforms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_errors.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_structs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/freetype_bf/ft_types.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/parsedtext.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/textgrid.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/textbox/textureatlas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/vlc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/window.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/windowframepack.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/visual/windowwarp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/voicekey/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/voicekey/demo_vks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/voicekey/labjack_vks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/voicekey/parallel_vks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/voicekey/signal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/voicekey/vk_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy_source_code/web.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/incf_gsoc2017_psychopy.iml" afterPath="$PROJECT_DIR$/.idea/incf_gsoc2017_psychopy.iml" />
+    <list default="true" id="d893a886-7032-4a35-9729-8f39e0d62cd6" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/incf/__init__py.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/encryption/MakeRsa/encrypted_file.txt" afterPath="$PROJECT_DIR$/encryption/MakeRsa/encrypted_file.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/encryption/MakeRsa/incf_rsa.py" afterPath="$PROJECT_DIR$/encryption/MakeRsa/incf_rsa.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gui/text.py" afterPath="$PROJECT_DIR$/gui/text.py" />
     </list>
     <ignored path="incf_gsoc2017_psychopy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -897,7 +24,32 @@
     <favorites_list name="incf_gsoc2017_psychopy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/incf/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/image/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="64" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="64" />
+              <folding>
+                <element signature="e#140#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -909,6 +61,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="umarbrowser" />
         <option value="pyc0d3r &lt;umarbrowser20@gmail.com&gt;" />
       </list>
     </option>
@@ -921,13 +74,15 @@
         <option value="$PROJECT_DIR$/encryption/MakeRsa/__init__.py" />
         <option value="$PROJECT_DIR$/encryption/Math/__init__.py" />
         <option value="$PROJECT_DIR$/encryption/Rabin/rabinMiller.py" />
-        <option value="$PROJECT_DIR$/gui/text.py" />
         <option value="$PROJECT_DIR$/encryption/Math/cryptomath.py" />
         <option value="$PROJECT_DIR$/encryption/MakeRsa/makeRsaKey.py" />
         <option value="$PROJECT_DIR$/encryption/incf_rsa.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/encryption/MakeRsa/incf_rsa.py" />
         <option value="$PROJECT_DIR$/psychopy_source_code/iohub/client/keyboard.py" />
+        <option value="$PROJECT_DIR$/gui/text.py" />
+        <option value="$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/incf/__init__py.py" />
+        <option value="$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/incf/__init__.py" />
       </list>
     </option>
   </component>
@@ -936,6 +91,25 @@
     <option name="y" value="27" />
     <option name="width" value="1365" />
     <option name="height" value="733" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -963,6 +137,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -995,9 +170,220 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keyboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="incf_gsoc2017_psychopy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1010,7 +396,7 @@
       <recent name="$PROJECT_DIR$/encryption/MakeRsa" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.incf_rsa">
+  <component name="RunManager" selected="Python.text">
     <configuration default="false" name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1221,9 +607,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.incf_rsa" />
-        <item index="1" class="java.lang.String" itemvalue="Python.makeRsaKey" />
-        <item index="2" class="java.lang.String" itemvalue="Python.text" />
+        <item index="0" class="java.lang.String" itemvalue="Python.text" />
+        <item index="1" class="java.lang.String" itemvalue="Python.incf_rsa" />
+        <item index="2" class="java.lang.String" itemvalue="Python.makeRsaKey" />
         <item index="3" class="java.lang.String" itemvalue="Python.rabinMiller" />
       </list>
     </recent_temporary>
@@ -1239,13 +625,21 @@
       <option name="presentableId" value="Default" />
       <updated>1491733448784</updated>
     </task>
+    <task id="LOCAL-00001" summary="start working on psychopy source-code">
+      <created>1491999951493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491999951493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="27" width="1365" height="733" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21923937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21327367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8130217" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1314,57 +708,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="start working on psychopy source-code" />
+    <option name="LAST_COMMIT_MESSAGE" value="start working on psychopy source-code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/psychopy_source_code/iohub/client/keyboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gui/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/encryption/Rabin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/encryption/MakeRsa/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/encryption/Rabin/rabinMiller.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/psychopy_source_code/psychopy/app/dialogs.py" />
     <entry file="file://$PROJECT_DIR$/.idea/incf_gsoc2017_psychopy.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1428,18 +779,272 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gui/text.py">
+    <entry file="file://$PROJECT_DIR$/psychopy_source_code/iohub/client/keyboard.py" />
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/developers/addingdocumentation.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/psychopy_source_code/iohub/client/keyboard.py">
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/images/builder.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/images/builder_sm.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/images/plaid_OSX.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/images/TopOfScreen.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/resources/jumpAnimate.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/resources/scheduleBEP.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/coder/tutorial1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/iohub_docs/_themes/bootstrap/globaltoc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/Resources/color16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/Resources/filenew32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/Resources/filenew16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/Resources/color128.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/Resources/fileopen16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/Resources/filesave32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/cedrusBox/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/settings/JS_htmlHeader.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/gui/wxgui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/_static/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/_static/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/about/testimonials.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/about/compileTestimonials.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/api/hardware/crs/BitsPlusPlus.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/developers/buildercomponent.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="74" column="59" selection-start-line="74" selection-start-column="59" selection-end-line="74" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/developers/developers.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="170" selection-start-line="7" selection-start-column="170" selection-end-line="7" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/docs/source/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/Resources/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/aperture/aperture.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/aperture/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/mouse/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/unknown/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/text/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="710" column="50" selection-start-line="710" selection-start-column="50" selection-end-line="710" selection-end-column="50" />
+          <folding>
+            <element signature="e#140#178#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/incf/__init__py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/image/image128.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/image/image.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/image/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <element signature="e#140#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/keyboard/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psychopy-master/psychopy/app/builder/components/incf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
