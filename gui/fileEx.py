@@ -1,0 +1,47 @@
+import sys
+from PyQt4.QtCore import *
+from PyQt4.QtGui import *
+
+class filedialog(QWidget):
+    def __init__(self, parent=None):
+        super(filedialog, self).__init__(parent)
+
+        layout = QVBoxLayout()
+        self.btn = QPushButton('QFileDialog static method ')
+        self.btn.clicked.connect(self.getfile)
+        layout.addWidget(self.btn)
+        self.le = QLabel('Hello')
+        layout.addWidget(self.le)
+        self.btn1 = QPushButton('QFileDialog object')
+        self.btn1.clicked.connect(self.getfiles)
+        layout.addWidget(self.btn1)
+
+        self.contents = QTextEdit()
+        layout.addWidget(self.contents)
+        self.setLayout(layout)
+        self.setWindowTitle('File Manager for Incf on GSoC')
+
+    def getfile(self):
+        fname = QFileDialog.getOpenFileName(self, 'Open file', 'c:\\', 'Image files(*.jpg *.png *.gif)')
+        self.le.setPixmap(QPixmap(fname))
+
+    def getfiles(self):
+        dlg = QFileDialog()
+        dlg.setFileMode(QFileDialog.AnyFile)
+        dlg.setFilter('Text files (*.txt)')
+        filenames = QStringList()
+        if dlg.exec_():
+            filenames = dlg.selectedFiles()
+            f = open(filenames[0], 'r')
+            with f:
+                data = f.read()
+                self.contents.setText(data)
+
+def main():
+    app = QApplication(sys.argv)
+    ex = filedialog()
+    ex.show()
+    sys.exit(app.exec_())
+
+if __name__ == '__main__':
+    main()
