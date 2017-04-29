@@ -9,8 +9,8 @@ class filedialog(QWidget):
         super(filedialog, self).__init__(parent)
         # set the layout to default
         layout = QVBoxLayout()
-        # create the push button with FileDialog static method label
-        self.btn = QPushButton('QFileDialog static method ')
+        # create the push button with Open Image File label
+        self.btn = QPushButton('Open Image File')
         # if the above button clicked getfile module will start
         self.btn.clicked.connect(self.getfile)
         # add the self.btn with is
@@ -23,8 +23,8 @@ class filedialog(QWidget):
         # GSoC label to the widget
         layout.addWidget(self.le)
         # create another push button
-        # with is QFileDialog object
-        self.btn1 = QPushButton('QFileDialog object')
+        # with is Open Text File object
+        self.btn1 = QPushButton('Open Text File')
         # create ths signal of getfiles
         # if the button clicked
         self.btn1.clicked.connect(self.getfiles)
@@ -79,7 +79,7 @@ class filedialog(QWidget):
 def main():
     # create the main
     app = QApplication(sys.argv)
-    # full app save on app variable
+    # full application save on app variable
     ex = filedialog()
     # file manager save to ex
     ex.show()
